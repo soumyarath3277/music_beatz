@@ -8,7 +8,8 @@ window.addEventListener('load', () => {
         "#c060d3",
         "#d3d160",
         "#6860d3",
-        "#60d394"
+        "#60d394",
+        "#229954",
     ];
     // console.log(sounds[0]);
 
